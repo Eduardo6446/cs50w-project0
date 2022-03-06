@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique+B1&display=swap');
+$letra-20: 20px;
+$font: Shippori Antique B1;
+$verde: #0cc652;
+$tm: 25px;
+
+%letras {
+    color: $verde;
+    font-family: $font;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.navbar-text{
+    margin-right: 15px;
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+.nav-item {
+    font-size: 20px;
+}
+
+.navbar-brand{
+    font-size: 20px;
+}
+
+h1{
+    @extend %letras;
+    
+    font-size: 30px;
+    
+
+}
+
+h2{
+    @extend %letras;  
+}
+
+#section3{
+    font-size: $tm;
+}
+
+#section2{
+    font-size: $tm;
+}
+
+#section1{
+    font-size: $tm;
+}
+
+.secciones{
+    color: $verde;
+    font-family: $font;
+    text-align: center;
+    list-style: none;
+    
+}

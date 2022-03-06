@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Shippori+Antique+B1&display=swap");
+h1, h2 {
+  color: #0cc652;
+  font-family: Shippori Antique B1;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.navbar-text {
+  margin-right: 15px;
+  margin-left: 10px;
+  font-size: 15px;
+}
+
+.nav-item {
+  font-size: 20px;
+}
+
+.navbar-brand {
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+#section3 {
+  font-size: 25px;
+}
+
+#section2 {
+  font-size: 25px;
+}
+
+#section1 {
+  font-size: 25px;
+}
+
+.secciones {
+  color: #0cc652;
+  font-family: Shippori Antique B1;
+  text-align: center;
+  list-style: none;
+}
+/*# sourceMappingURL=ofertas.css.map */

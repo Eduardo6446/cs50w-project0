@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Shippori+Antique+B1&display=swap");
+.navbar-text {
+  margin-right: 15px;
+  margin-left: 10px;
+  font-size: 15px;
+}
+
+.jumbotron {
+  background-color: #ffffff11;
+  color: white;
+  font-family: Shippori Antique B1;
+}
+
+.header {
+  background: url(images/playitaxd.jpg) no-repeat center;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.nav-item {
+  font-size: 20px;
+}
+
+.navbar-brand {
+  font-size: 20px;
+}
+
+.sub {
+  font-size: 18px;
+}
+
+.section-title {
+  position: relative;
+}
+
+.section-title h2 {
+  font-family: Shippori Antique B1;
+  color: #1d2025;
+  position: relative;
+  margin: 0;
+  font-size: 24px;
+}
+
+/*****************************************************/
+@media (min-width: 768px) {
+  .section-title h2 {
+    font-size: 28px;
+  }
+}
+
+@media (min-width: 992px) {
+  .section-title h2 {
+    font-size: 34px;
+  }
+}
+
+.esp {
+  position: center;
+  left: 0;
+  bottom: 12px;
+  width: 40px;
+  height: 1px;
+  background-color: #0cc652;
+}
+
+/******************************************************/
+.section-title.title-ex1 p {
+  font-family: "Shippori Antique B1";
+  color: #8b8e93;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.price-card {
+  background: #f5f5f6;
+  padding: 40px 35px;
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.price-card h2 {
+  font-size: 26px;
+  font-weight: 600;
+}
+
+.price-card .btn {
+  font-size: 11px;
+  border-radius: 100px;
+  padding: 0 25px;
+  border: 0;
+  color: #fff;
+  float: right;
+}
+
+.price-card.principal {
+  background: #fff;
+  border: 1px solid #ebebeb;
+  -webkit-box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+p.precios span {
+  display: inline-block;
+  padding: 40px 13px 50px;
+  padding-right: 0;
+  font-size: 50px;
+  font-weight: 600;
+  color: #0cc652;
+  position: relative;
+}
+
+.detalles {
+  padding: 0 0 10px;
+}
+
+.detalles li {
+  padding: 0 0 16px;
+  line-height: 18px;
+}
+
+ul li {
+  list-style: none;
+}
+
+.btn.btn-mid {
+  height: 40px;
+  line-height: 40px;
+  padding: 0 20px;
+}
+
+.price-card:hover .btn {
+  background: #0cc652;
+  border-color: #0cc652;
+}
+
+
+
+/*# sourceMappingURL=Sstyle.css.map */
