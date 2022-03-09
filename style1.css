@@ -30,3 +30,9 @@ p{
 }
 
 
+.card{
+    margin-bottom: 10px;
+    border-radius: 20px 30px;
+    border-color: rgba(202, 202, 202, 0.459);
+    
+}
